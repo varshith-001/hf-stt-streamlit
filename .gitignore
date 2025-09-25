@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Local temp / uploads (if you add later)
+tmp/
+
+# Models (large; don't commit)
+models/
+
+# macOS
+.DS_Store
